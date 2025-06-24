@@ -1,0 +1,16 @@
+name: hello world
+description: A simple hello world action  
+inputs:
+  who-to-greet:
+    description: who to greet
+    required: true
+    default: 'World'
+outputs:
+  time:
+    description: The time to greet
+    runs:
+      using: 'node20'
+      main: 'index.js'
+  brrandings:
+    incon: 'message-square'
+    color: 'green'
