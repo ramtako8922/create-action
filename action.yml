@@ -1,4 +1,4 @@
-name: hello world
+name: hello world by ricardo
 description: A simple hello world action  
 inputs:
   who-to-greet:
