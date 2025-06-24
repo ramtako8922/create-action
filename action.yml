@@ -11,6 +11,6 @@ outputs:
     runs:
       using: 'node20'
       main: 'index.js'
-  brrandings:
-    incon: 'message-square'
+  brandings:
+    icon: 'message-square'
     color: 'blue'
