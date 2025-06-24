@@ -13,4 +13,4 @@ outputs:
       main: 'index.js'
   brrandings:
     incon: 'message-square'
-    color: 'green'
+    color: 'blue'
